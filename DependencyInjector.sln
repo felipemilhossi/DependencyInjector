@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjector.API", "..\DependencyInjector.API\DependencyInjector.API.csproj", "{9D3DB8DB-948A-4229-A547-F840D0BD8F79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjector.API", "DependencyInjector.API\DependencyInjector.API.csproj", "{9D3DB8DB-948A-4229-A547-F840D0BD8F79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
